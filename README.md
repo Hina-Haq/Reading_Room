@@ -46,7 +46,7 @@ The final dataset contains **2,004 books**:
 - **1,004 from Goodreads**
 - **1,000 from Open Library**
 
-The final cleaned and concatenated file used for the app is: books_streamlit.csv
+The final cleaned and concatenated file used for the app is: **books_streamlit.csv**
 
 ---
 
