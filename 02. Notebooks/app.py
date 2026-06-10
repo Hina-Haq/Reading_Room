@@ -109,7 +109,7 @@ st.markdown("""
 
 
 # Load data 
-df = pd.read_csv("01. Data/books_streamlit.csv")
+df = pd.read_csv("../01. Data/books_streamlit.csv")
 
 # Upgrade cover image quality
 df["cover_img_url"] = df["cover_img_url"].str.replace("-M.jpg", "-L.jpg", regex=False)
