@@ -109,7 +109,7 @@ st.markdown("""
 
 
 # Load data 
-df = pd.read_csv("books_streamlit.csv")
+df = pd.read_csv("01. Data/books_streamlit.csv")
 
 # Upgrade cover image quality
 df["cover_img_url"] = df["cover_img_url"].str.replace("-M.jpg", "-L.jpg", regex=False)
@@ -237,7 +237,7 @@ if selected_title:
         if pd.notna(book["cover_img_url"]):
             st.image(book["cover_img_url"], width=150)
         else:
-            st.image("no_cover_placeholder.png", width=200)
+            st.image("src/no_cover_placeholder.png", width=200)
 
     with col2:
         st.markdown(f"### {book['title']}")
