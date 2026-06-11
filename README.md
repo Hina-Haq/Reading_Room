@@ -94,16 +94,22 @@ The_Reading_Room/
 │   ├── Concat_feature_fixing_reading_room.ipynb
 │   ├── Database_Streamlit_Cleaning.ipynb
 │   ├── Prep_and_ML.ipynb
+│   ├── Trials_scraping.ipynb
 │   ├── Web_scraping.ipynb
-│   ├── trials_scraping.ipynb
 │   └── app.py
 │
 ├── src/
-│   └── logo_dark.svg
+│   ├── brand_guidelines.md
+│   ├── favicon.png
+│   ├── logo_dark.svg
+│   ├── logo_light.svg
+│   ├── no_cover_placeholder.png
+│   └── no_cover_placeholder.svg
 │
-├── the_reading_room_presentation.pptx
-└── README.md
-```
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── the_reading_room_presentation.pdf
 
 
 ---
@@ -111,5 +117,5 @@ The_Reading_Room/
 ## Links
 
 - **Deployed Streamlit App:** [\[The Reading Room\]](https://the-reading-room.streamlit.app/)
-- **Presentation:** [Add presentation link here]
+- **Presentation:** https://github.com/Hina-Haq/The_Reading_Room/blob/main/the_reading_room_presentation%20.pdf
 
