@@ -110,12 +110,11 @@ The_Reading_Room/
 ├── README.md
 ├── requirements.txt
 └── the_reading_room_presentation.pdf
-
+```
 
 ---
 
 ## Links
 
-- **Deployed Streamlit App:** [The Reading Room](https://the-reading-room.streamlit.app/)
-[Project Presentation](https://github.com/Hina-Haq/The_Reading_Room/blob/main/the_reading_room_presentation%20.pdf)
-
+- **Deployed Streamlit App:** [\[The Reading Room\]](https://the-reading-room.streamlit.app/)
+- **Presentation:** PDF Presentation [https://github.com/Hina-Haq/The_Reading_Room/blob/main/the_reading_room_presentation%20.pdf]
